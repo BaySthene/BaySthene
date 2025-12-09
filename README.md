@@ -3,6 +3,7 @@
 ### A passionate full stack developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BaySthene&label=Profile views&color=0e75b6&style=flat" alt="BaySthene" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=BaySthene)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BaySthene" alt="BaySthene" /></a> </p>
 
