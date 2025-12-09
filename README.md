@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaySthene&show_icons=true&locale=en" alt="BaySthene" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaySthene&" alt="BaySthene" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=BaySthene&theme=onedark&hide_border=true&border_radius=0&short_numbers=true&mode=weekly" alt="Bay Sthene" /></p>
 
