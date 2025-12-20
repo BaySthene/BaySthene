@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaySthene&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&border_radius=0" alt="BaySthene" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaySthene&show_icons=true&locale=en" alt="BaySthene" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaySthene&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=0" alt="BaySthene" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=BaySthene&theme=onedark&hide_border=true&border_radius=0&short_numbers=true&mode=weekly" alt="BaySthene" /></p>
 
