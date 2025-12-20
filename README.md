@@ -1,5 +1,7 @@
 # Hi 👋, I'm Muhammet Keskin
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fcakiroglu16&label=Profile%20views&color=0e75b6&style=flat" alt="fcakiroglu16" /> </p>
+
 ### A passionate full stack developer
 
 - 🔭 I'm currently working on **Modern microservice-based ERP integration platform (Nebim Asistan), .NET 9 + CQRS + Vertical Slice mimarisi ile yüksek ölçekli backend servisleri, React Native mobil uygulaması**
