@@ -4,7 +4,7 @@
 
 ### A passionate full stack developer
 
-- 🔭 I'm currently working on **Modern microservice-based ERP integration platform (Nebim Asistan), .NET 9 + CQRS + Vertical Slice mimarisi ile yüksek ölçekli backend servisleri, React Native mobil uygulaması**
+- 🔭 I'm currently working on **Modern microservice-based ERP integration platform (Nebim Asistan), .NET 10 + CQRS + Vertical Slice mimarisi ile yüksek ölçekli backend servisleri, React Native mobil uygulaması**
 
 - 🌱 I'm currently learning **Distributed systems, event-driven architecture, resilience patterns (Polly), advanced Keycloak authorization flows, React Native performance optimization**
 
